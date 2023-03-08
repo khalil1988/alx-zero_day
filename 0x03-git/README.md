@@ -1,1 +1,1 @@
-hello, this is my second readme as a ALX SE student
+the updated readme from branch main
